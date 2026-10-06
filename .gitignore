@@ -1,2 +1,5 @@
-weirdalgo
-weirdalgo.dSYM/
+*
+!*.c
+!*.py
+!.gitignore
+!*/
